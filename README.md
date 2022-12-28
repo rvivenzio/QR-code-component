@@ -19,30 +19,29 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![](qrcode-screenshot.png)
+![](https://im.ge/i/q88OF8)
 
 ### Links
-- Live Site URL: [https://regal-scone-6dccab.netlify.app](https://regal-scone-6dccab.netlify.app)
+- Live Site URL: [https://symphonious-nasturtium-35ed1c.netlify.app/](https://symphonious-nasturtium-35ed1c.netlify.app/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
 
 ### What I learned
 My major learning was the properties of Flexbox. Below, a snippet of CSS code where I used this property.
  
 ```css
 body {
-    background: var(--light-gray);
     font-family: 'Outfit', sans-serif;
-    min-height: 100vh;
+    background-color: var(--light-gray);
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    min-height: 100vh;
 }
 ```
 
@@ -57,26 +56,6 @@ I would like to develop myself further in using properties like Flexbox and Grid
 
 
 
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
 
 ### Screenshot
 
