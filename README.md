@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![](https://im.ge/i/q88OF8)
+![https://im.ge/i/q88OF8](https://im.ge/i/q88OF8)
 
 ### Links
 - Live Site URL: [https://symphonious-nasturtium-35ed1c.netlify.app/](https://symphonious-nasturtium-35ed1c.netlify.app/)
