@@ -51,6 +51,7 @@ body {
     margin: auto auto 3rem auto;
     display: block;
     border-radius: 0.5rem;
+    overflow: hidden;
     
 }
 
@@ -67,10 +68,10 @@ body {
     font-size: 1.2rem;
     font-weight: 400;
     text-align: center;
-    color: var(--light-gray);
+    color: var(--grayish-blue);
 
 }
-    
+   
 
 .attribution { 
     font-size: 11px; text-align: center; 
@@ -82,3 +83,4 @@ body {
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
+
